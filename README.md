@@ -1,4 +1,4 @@
-# Hi there, I'm @sparrowjack234 👋
+# Hi there, I'm Suyash 👋
 
 ---
 
