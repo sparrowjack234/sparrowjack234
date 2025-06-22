@@ -3,7 +3,7 @@
 ---
 
 ## 👨‍🎓 About Me
-- 🎓 Third-Year Mechanical Engineering Student at **IIT BHU**.
+- 🎓 Fourth-Year Mechanical Engineering Student at **IIT BHU**.
 - 🔬 Research Intern at **Indian Statistical Institute (ISI) Kolkata**.
 - 📚 Currently learning **Few-Shot Segmentation**, **Medical Image Analysis**, **LLMs**, and **RAG (Retrieval-Augmented Generation)** techniques.
 - 💬 Always excited to collaborate on AI/ML research, LLM applications, and cloud-based optimization projects.
